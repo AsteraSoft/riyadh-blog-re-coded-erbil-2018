@@ -1,4 +1,4 @@
-learn submit# Riyadh Blog
+# Riyadh Blog
 
 Create the website page shown in the provided screenshot image.
 
